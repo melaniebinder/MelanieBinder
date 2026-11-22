@@ -20,7 +20,7 @@ Each project includes a **"Why this exists"** section covering the problem, my a
 
 ## Let's connect
 
-- LinkedIn: [www.linkedin.com/melaniecoissard]
+- LinkedIn: [www.linkedin.com/in/melaniecoissard]
 - Writing: *Back to Baseline* on Substack
 
 *Everything here is built on my own time with public or synthetic data. Views are my own.*
